@@ -1,0 +1,10 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "0",
+      "nombrePlatillo": "software libre",
+      "categoria": "bebida",
+      "id": 1
+    }
+  ]
+}
